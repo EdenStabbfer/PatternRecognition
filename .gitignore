@@ -1,8 +1,14 @@
 /.venv
 /data
 /KT1/checkpoints
+
 /Lab-6/balloon/
 /Lab-6/datasets/
 /Lab-6/VIA2COCO/
 /Lab-6/detr/
 /Lab-6/yolov5
+/Lab-6/lightning_logs
+
+/Lab-7/yolov5
+/Lab-7/PRW-v16.04.20
+/Lab-7/data
