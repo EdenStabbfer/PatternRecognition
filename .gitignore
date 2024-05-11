@@ -2,6 +2,19 @@
 /data
 /KT1/checkpoints
 
+/KT3/dataset
+/KT3/yolov8n.pt
+/KT3/yolov8s-pose.pt
+/KT3/runs/
+/KT3/wandb/
+/KT3/yolov_dataset/
+
+/KT2/saves
+/KT2/Ship-detection/
+/KT2/Ship.v4i.coco/
+/KT2/wandb/
+/KT2/detr/
+
 /Lab-6/balloon/
 /Lab-6/datasets/
 /Lab-6/VIA2COCO/
@@ -11,4 +24,16 @@
 
 /Lab-7/yolov5
 /Lab-7/PRW-v16.04.20
+/Lab-7/PRW-v16.04.20 rebuilded/
 /Lab-7/data
+
+Lab-8/l8/
+Lab-8/model__DATE_DIME_2024_04_12__15_59_29__Loss_1.0691874027252197__Accuracy_0.550000011920929/
+
+Lab-9/.cometml-runs/
+Lab-9/PenDataset/
+Lab-9/simple-HRNet/
+Lab-9/yolo-weights/
+Lab-9/yolov5/
+Lab-9/darknet53.conv.74
+Lab-9/pose_hrnet_w32_256x192.pth
