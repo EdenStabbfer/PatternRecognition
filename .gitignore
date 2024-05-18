@@ -8,6 +8,8 @@
 /KT3/runs/
 /KT3/wandb/
 /KT3/yolov_dataset/
+/KT3/test_dataset/
+/KT3/train_dataset/
 
 /KT2/saves
 /KT2/Ship-detection/
